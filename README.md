@@ -17,3 +17,8 @@ Atividade para aprender os fundamentos de banco de dados com o MySQL, explorando
 ## Nível 5: Análise de Indicações
 [Respostas nível 5](./nivel5.md)
 
+## Nível 6: Análise de Filmes
+[Respostas nível 6](./nivel6.md)
+
+### Enunciado da atividade
+[Acessar enunciado](https://github.com/gabaugusto/sample-databases/tree/main/Tabelas/7_OSCAR)

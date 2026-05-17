@@ -1,6 +1,6 @@
 # Nível 2: Explorando Categorias
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 

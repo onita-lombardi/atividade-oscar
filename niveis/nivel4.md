@@ -1,6 +1,6 @@
 # Nível 4: Vencedores Históricos
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 

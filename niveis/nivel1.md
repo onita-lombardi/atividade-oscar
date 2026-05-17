@@ -1,6 +1,6 @@
 # Nível 1: Primeiros Passos
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 

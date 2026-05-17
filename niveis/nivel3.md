@@ -1,6 +1,6 @@
 # Nível 3: Atores e Atrizes Famosos
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 

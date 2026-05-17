@@ -1,6 +1,6 @@
 # Nível 5: Análise de Indicações
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 

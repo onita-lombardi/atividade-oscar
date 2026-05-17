@@ -1,6 +1,6 @@
 ## Nível 6: Análise de Filmes
 
-[Voltar README](./README.md)
+[Voltar README](../README.md)
 
 ## Respostas
 
